@@ -4,7 +4,8 @@ Repositório com dois trabalhos que utilizam Árvore Binária de Busca (ABB), im
 
 ## Integrantes
 
-- (preencher)
+- Caetano Padoin
+- Matheus Brehm
 
 ## Subprojetos
 
